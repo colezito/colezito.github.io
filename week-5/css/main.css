@@ -1,4 +1,4 @@
-body {
+body { /* 0,0,0,1 */
     color:blue;
 }
 /* change color of all paragraphs and lists */
@@ -6,17 +6,17 @@ p, li {
     color:green;
 }
 /* target child elements */
-section h1{
+section h1{ /* 0,0,0,2 */
     color:darkred;
 }
 
 /* style a class */
-.secondary-heading{
+.secondary-heading{ /* 0,0,1,0 */
     color:purple;
 }
 
 /* style an id */
-#main-section{
+#main-section{ /* 0,1,0,0 */
     color:pink;
     font-weight:bold;
 }
