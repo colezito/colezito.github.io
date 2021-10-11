@@ -8,3 +8,6 @@ body{
 header, footer{
     background-color: cornflowerblue;
 }
+.title{
+    color: lightpink;
+}
