@@ -15,3 +15,7 @@ header{
 header, footer{
     background-color: cornflowerblue;
 }
+#my-image{
+    box-shadow: black;
+    ;
+}
