@@ -5,9 +5,10 @@ body{
     font-size: 18px;
 
 }
-header, footer{
-    background-color: cornflowerblue;
-}
 .title{
     color: lightpink;
+}
+
+header, footer{
+    background-color: cornflowerblue;
 }
