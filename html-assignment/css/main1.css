@@ -20,5 +20,5 @@ header, footer{
     
 }
 ul li:nth-child(odd){
-    background-color: goldenrod;
+    background: goldenrod;
 }
