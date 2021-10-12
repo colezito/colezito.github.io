@@ -19,6 +19,7 @@ header, footer{
     box-shadow: black;
     
 }
+/* colour odd list items */
 ul li:nth-child(odd){
     background: goldenrod;
 }
