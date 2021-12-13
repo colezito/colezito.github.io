@@ -72,3 +72,7 @@ ul{
   h5{
       font-weight: bold;
   }
+
+  h5{
+      align-content: center;
+  }
